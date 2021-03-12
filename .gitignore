@@ -1,0 +1,8 @@
+*.pickle
+.idea
+*.iml
+*.pyc
+*.ipynb
+.ipynb_checkpoints
+.pytest_cache
+venv/*

@@ -1,0 +1,8 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.5.0
+transformers==4.2.1
+sentencepiece==0.1.95
+google-api-python-client==1.12.8
+tqdm==4.56.0
+scipy==1.6.0
+nlp==0.4.0
